@@ -1,0 +1,6 @@
+{
+  "name": "Second Year Hub",
+  "description": "AI-Powered Punjab Board 2nd Year Learning Platform for Grade 12 students (Session 2026-2027). Official textbooks, Hub AI Tutor, chapter quizzes, assignments, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
